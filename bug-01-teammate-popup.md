@@ -48,4 +48,8 @@ Medium
 
 <img width="1600" height="720" alt="Brawl Stars UI expected" src="https://github.com/user-attachments/assets/17254181-cd51-4875-bd8f-1bfdae7086e5" />
 
+## 🔗 Jira Ticket
+[View Bug in Jira](https://ayushsonkar9795.atlassian.net/browse/KAN-4)
+
+
 
