@@ -1,4 +1,3 @@
-# QA-Game-Testing-Portfolio
 # 🎮 QA Game Testing Portfolio
 
 ## 👤 About Me
