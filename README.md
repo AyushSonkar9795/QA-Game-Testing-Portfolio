@@ -48,8 +48,4 @@ To demonstrate practical QA testing skills and understanding of real-world bug r
 
 ---
 
-## 🔗 Jira Reference (Optional)
 
-(Add your Jira link here if you want)
-
----
