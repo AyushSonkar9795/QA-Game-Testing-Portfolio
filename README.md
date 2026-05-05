@@ -11,7 +11,6 @@ This repository contains bug reports identified through manual testing of games.
 ## 🐞 Bug Reports
 
 * Bug 01: Teammate mode/event not displayed in pop-up intermittently
-* (Add more bugs here)
 
 ---
 
